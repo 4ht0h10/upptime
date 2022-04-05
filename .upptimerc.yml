@@ -3,7 +3,6 @@ owner: 4ht0h10 # Your GitHub organization or username, where this repository liv
 repo: upptime  # The name of this repository
 
 sites:
-
   - name: Oracle ERP Cloud (DEV1)
     url: https://emgy-dev1.fa.em4.oraclecloud.com
   - name: Oracle ERP Cloud (DEV4)
