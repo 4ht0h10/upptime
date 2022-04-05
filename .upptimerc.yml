@@ -5,10 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: PRY-ES-ERP Cloud Implantaciones
+    url: https://procde.prosegur.com/jira/projects/ECUP/summary
+  - name: ERP Cloud (DEV4)
+    url: https://emgy-dev4.login.em4.oraclecloud.com/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
