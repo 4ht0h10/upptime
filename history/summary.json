@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 771,
-    "timeDay": 886,
-    "timeWeek": 586,
-    "timeMonth": 682,
-    "timeYear": 771,
+    "time": 770,
+    "timeDay": 722,
+    "timeWeek": 630,
+    "timeMonth": 675,
+    "timeYear": 770,
     "dailyMinutesDown": {
       "2022-04-05": 70
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 867,
-    "timeDay": 822,
-    "timeWeek": 634,
-    "timeMonth": 815,
-    "timeYear": 867,
+    "time": 868,
+    "timeDay": 945,
+    "timeWeek": 696,
+    "timeMonth": 805,
+    "timeYear": 868,
     "dailyMinutesDown": {
       "2022-04-05": 70
     }
@@ -45,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/idcs-4921a55feb69491e873732c94e62803f.identity.oraclecloud.com",
     "slug": "oracle-cloud-infrastructure-oci",
     "status": "up",
-    "uptime": "98.27%",
+    "uptime": "98.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.27%",
-    "time": 802,
-    "timeDay": 543,
-    "timeWeek": 461,
-    "timeMonth": 553,
-    "timeYear": 802,
+    "uptimeYear": "98.31%",
+    "time": 798,
+    "timeDay": 565,
+    "timeWeek": 492,
+    "timeMonth": 545,
+    "timeYear": 798,
     "dailyMinutesDown": {
       "2022-04-07": 456,
       "2022-04-06": 828
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
-    "time": 1183,
-    "timeDay": 1209,
-    "timeWeek": 979,
-    "timeMonth": 1180,
-    "timeYear": 1183,
+    "time": 1192,
+    "timeDay": 1776,
+    "timeWeek": 1116,
+    "timeMonth": 1198,
+    "timeYear": 1192,
     "dailyMinutesDown": {
       "2022-04-27": 276
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
-    "time": 439,
-    "timeDay": 642,
-    "timeWeek": 458,
-    "timeMonth": 441,
-    "timeYear": 439,
+    "time": 449,
+    "timeDay": 1050,
+    "timeWeek": 563,
+    "timeMonth": 461,
+    "timeYear": 449,
     "dailyMinutesDown": {
       "2022-04-27": 276
     }
@@ -111,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
-    "time": 434,
-    "timeDay": 463,
-    "timeWeek": 353,
-    "timeMonth": 444,
-    "timeYear": 434,
+    "time": 443,
+    "timeDay": 1025,
+    "timeWeek": 456,
+    "timeMonth": 463,
+    "timeYear": 443,
     "dailyMinutesDown": {
       "2022-04-27": 276
     }
