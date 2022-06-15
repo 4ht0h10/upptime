@@ -1,7 +1,7 @@
 url: https://procde.prosegur.com/jira/projects/ERPC/summary
-status: up
-code: 200
-responseTime: 429
-lastUpdated: 2022-06-14T23:09:05.761Z
+status: down
+code: 503
+responseTime: 183
+lastUpdated: 2022-06-15T06:41:08.938Z
 startTime: Tue Apr 05 2022 11:34:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
