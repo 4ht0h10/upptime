@@ -1,7 +1,7 @@
 url: https://procde.prosegur.com/jira/projects/ERPQA/summary
-status: down
-code: 503
-responseTime: 207
-lastUpdated: 2022-06-15T06:41:15.680Z
+status: up
+code: 200
+responseTime: 276
+lastUpdated: 2022-06-15T07:30:13.273Z
 startTime: Mon Jun 06 2022 10:07:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
