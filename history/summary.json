@@ -64,9 +64,9 @@
     "url": "https://procde.prosegur.com/jira/projects/ECUP/summary",
     "icon": "https://favicons.githubusercontent.com/procde.prosegur.com",
     "slug": "jira-pry-es-erp-cloud-implantaciones",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.77%",
@@ -76,6 +76,7 @@
     "timeMonth": 1005,
     "timeYear": 1117,
     "dailyMinutesDown": {
+      "2022-07-13": 0,
       "2022-06-15": 49,
       "2022-04-27": 276
     }
