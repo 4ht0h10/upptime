@@ -1,7 +1,7 @@
 url: https://procde.prosegur.com/jira/projects/MICO/summary
-status: down
-code: 503
-responseTime: 129
-lastUpdated: 2022-07-22T14:22:57.913Z
+status: up
+code: 200
+responseTime: 441
+lastUpdated: 2022-07-22T14:48:27.162Z
 startTime: Tue Apr 05 2022 11:34:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
