@@ -1,7 +1,7 @@
 url: https://procde.prosegur.com/jira/projects/ECUP/summary
-status: up
-code: 200
-responseTime: 1231
-lastUpdated: 2022-07-21T23:11:00.838Z
+status: down
+code: 503
+responseTime: 331
+lastUpdated: 2022-07-22T14:22:53.756Z
 startTime: Tue Apr 05 2022 11:34:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
