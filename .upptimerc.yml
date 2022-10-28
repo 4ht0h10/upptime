@@ -27,7 +27,7 @@ sites:
     maxResponseTime: 9000
     assignees:
       - desafecto
-  - name: (Jira) Seguimiento QA
+  - name: (Jira) QA Team management
     url: https://procde.prosegur.com/jira/projects/ERPQA/summary
     icon: http://www.google.com/s2/favicons?domain=jira.com
     maxResponseTime: 9000
