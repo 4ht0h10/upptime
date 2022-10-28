@@ -1,31 +1,64 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: 4ht0h10 # Your GitHub organization or username, where this repository lives
+repo: upptime  # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: (TEST) Oracle ERP Cloud
+    url: https://emgy-test.login.em4.oraclecloud.com/oam/server/obrareq.cgi?encquery%3DAbPTg6kUDGGGJf5s8Rz0R%2FvO65LSdVYFTEJqrHITpqUs1YPG%2BES8Z2Tsy%2F9J2gAll6qVIS47ZXuKdj1HF35qCrCnt7sMd%2FJNXeHYsrLDws6xPVos8pVPSj6MUozGfO6fjB9407XKpJofNUTjFP0iEIkuKJmFEEW7VRJjnUcYgE40rsawNsn5ZuXrSVH%2FPlSiYpIT%2FNlT7jjqEj9e2yebLGMZZpwuonGtaX4AGUrzy7cemE6MJ8vZrUSVFV9RSO3AKl1WNNIF5XvrQqMbYTiu%2Fka2CMOB2gNFzfcVgzEI0oGXDmMS3gXeRDTkMyEJaHVT28aIemFo69kg3Mi%2FeDdTmxkdR6MBdyY9j%2FEqsCJyfbrqUwi%2Fzvwy3TgINZB71qQEfd292dB9XNjZGbpEOmD0nmtB%2Bk5EouviAzILli2GZvv2MILgBxIr5N%2FtxFMxFzFw7K%2FSgvsBlSlCCoUgc8KXX8wARwb%2BeNKpn2PfM6uzD4Hg%2FJgGChU41oXKuXBibBAxpSQVU9B9LmqhLcpZOzMH1RF5OhOkCRJ7QuWgRplOmUBThI9DsCHAr%2FwIb6DogKmK9vIiFAxcEV83Lj%2FNgQhDF0QGUymG8V99L7rSH9LAfw%2Bl0FMTIEVki%2FfpF0q3iyp4HHScZ%2Fv3GsqshtV5q9L3OPftBfyMEMVdp0CLPdABvJYMgeHrxZ7UvulzvNCCVkXi%2BlO6EEYih2NRqrdLulTE1Pv88jvPglqnPJuRv4qHBPzmoTZSyrnPnXI7Hl0hONgM6W4GJSc4ErgmXRH1k4etCNiotuqBnqWN2JbBd6ttvYBDAwzhnzmSEp54GOQCVT80t7i7ylqCnO%2FZk6bCUhoPNj3XYEI%2FzVXF0ijKxeQ%2FEZ0lnceZIue6ok7YWc7LUvnqFT3bQE1Y2kPtJj%2BN0gN3Zkdwd6F21KImwbrEeNzr%2BZo6ncFzKob9bWnk%2FeABV2niaUMHW3V2%2B4oBseOaMIlXtLsartfge%2F25DWD8czZ2GDAFHqjaGBIoHfq9FoMcOlAdAJ6WdwL%2BDWc8GZAjfJ1eWXaIHSR0qzp6GZYHr5S9M1Qo%2FNjbDcb9bmipgElZAZDo5xWF2pPcLJ8qj8IoiDivE3etqD8gYIg6lZJRwJljjIEb0C8GyIClGUdiRe6QcuLjAMPfRrH6cAgqK7cWhRe%2FsrJu4h0dL%2BUfJyA6SuRmVikKc2DNDo82jNPAogHG70E6wP8qNDXtjeso8QwAh22cwLV0RTJGoJSNpBw2NYVTvgLp6ZTQwyOQYO6ZVwbgyjspyHyKVOG1sLpw6Nk4JbAbxo5ltYyDEN0TY4Qv0viFFUf20serZNZZHBv132An5e6etZiDoDHKo16%2F6cNniStBL0ISzReDTGgA8Wfm8re7GsJwM5yXCYDWa3zKXT0oL0pT2o8nleEtvBEy8BAYG8wvEICIViSuE3HE9buHoDGGKcnp7ZmG3v0AgV5vHcci7bl%2FRuXHZt%2FN1UXrZ6KIiTRfARlS3InHZgwvWJ60h0e%2BdD7qgl5kMo%2FRfQ8fEBrCpPKtwjfp%2F5UmveYkoNMOxewL0pxWtTvctfRkyzWPmHu4%2FJ0St9lBCDvrHel%2FUPLPQYLW0qs65ZKfNkdQv0GhI9EkbVAyAOF2i88g%2BCzXECg9uI09h24CDi1BN2b9PBiKZrWvj9BrLGCvKDBlNcT9xhjbAQ%3D%3D%20agentid%3DOraFusionApp_11AG%20ver%3D1%20crmethod%3D2%26cksum%3D939f4eb1c689054484711fd93dfe06bd623e7b87&ECID-Context=1.005s8VyR94SBx075vJh8iX0001AQ0000Je%3BkXjE
+    icon: http://www.google.com/s2/favicons?domain=oracle.com
+    maxResponseTime: 9000
+    assignees:
+      - desafecto
+  - name: (DEV4) Oracle ERP Cloud
+    url: https://emgy-dev4.login.em4.oraclecloud.com/oam/server/obrareq.cgi?encquery%3DlXMni1Qvxm5oWpsjWDFpO4esM%2BXUw720eyQBwFvIRBf3VGg%2FNWXD8kCH%2Fts%2F2pF1Mt42ygKKahxwnncQdzV6oSScEr6GBPDBYBPXclNkqD%2BPb7oJZ3mdm2CWdRWx3%2FjrtpiVrQ9KUdIWnXjMisI3jZfvH5PQyTkNyVMAQnOIT4fyshO3wd4NmhZs4sbLYRk93QbaOYXwA0%2BkFOUBhCCMGoDzhnw1w8ZVAyM2X%2B0%2FvoBxvy6LwX%2BuaoTvPyIAdd19%2B6nnsjyH9FRdJuU7Nol1k0%2F%2FUcdkSEzNgFvOdugeSDjDxLaF7fwcARyVnXECeYZnKsejHSMzrEpSXRBqBnvoF5wLe%2F0g4YTrwYF21x6PN83KSn1TLs8hgm4mr1EN7Eo74xDQ%2BeHvRgGKLVij4Z%2F%2FxX93H2VQQ2HpIve2k953%2BRKn2hPZ%2FxIXBRDweSTLNLh78yDxKi3yUcDlPZ0VPMtPw9zsDq5TEszYvVUcL8Omu7cvtl7Ab%2FSME%2B76zzX9HGWgDhu9K4ZlLxl%2FZbgkQ8OGaLvNn7geLrGjHlgvfFXktrxBVW%2FER9X6aKYZ1kcSAt6N4jjP2YLmvRee1zYsL%2BxB7VCHLJnpm1ux9zhiCy1N2UYNgvgmtowDNIOyyoKSyIQzgNpiZUtZq0wHRwyQy6ISM3bEk2IyZFt4YuQy0di0jHZ%2BTu4GBOwIGmtl6n90MPCg4oEqy7hsq2JFAwyJ%2FfA73rD1lrnA371cPW7PaIp0EzWHo3trKcN5L0Ix04WWOuLREHQc4Jd2pu3E60jCX%2FQkykqF0MQyrz4ssnnjst5Fuagvva0Wq%2FjkRTwFNZPoJFtp2szozCBVMNrOgxGENr7zXjM8C0rnL2JbWXZH7hKHOdraX%2B%2F0OnUoWW6P6sv54EJUImMgZaT9e%2FPiZjOiGiEIXx7%2FKZO6UaeMWOzz%2B7hbcwoidwerTI6KRgvu%2FRKbltk6tbV5GvhhDBeu2jtPncs4Mbo2Rjw8bryDUIPeOnnoIi5XAMByxOOOOxZnf17XE7JPBL%2BznBhZZWhxD0ec2tJbqVVdSOnvrFZthDUg66GrSPaou9jFzfzxQoZmfcCDoXXPWTC6whTramx3y%2FG0eFWDFLK9Py1wt74mHg5fottoxm3dDYm3kOqqo1nONq%2BK3Pd50NsX5YimdDb2YKDScFZhs6Iw%2FR9vhVtNcs%2F7yrTSFfKm5yYbFBKVRHa2syxB8GL%2BlAk2R3JVqkjrjSIOFati1lm4Rfzr9sUelstmfEkEV5ZU%2B2x%2BXXT9PkIuxVb%2BfEiNRqvoinzU2TnD5ZSW33o6bgsw1qJ69cRRNIGSY6lZ82SzEw9kyfuEl8hjGMvbb%2F59WmkS8t8K8Qn9FkYOrMlTxICjwVjCKxqQSJWiwTRQU8Bi4EI0HI%2BY2K58FGoRCv%2BueWaYtOtJ6mt4KCA6iYXBDQDm%2FLHdLEong2sTxHpyWbU%2Bo0bxSRTfKqwRCNA446bio9aL3qC6CvTj713jEOhg2qYVE8Den3kO%2BEqw%2F0agy%2BJ2Jd2PHuldXJPY6XXXEPzYr%2BRWghnMz%2FwmbEJYmj9lbREFXmzKcpIFLUj7gaCgk5ouh%2Fkiu2GCeBUDcoST%2BdEGOJDcfXl8x7DmCyAP02hPoMhyMEap7OrK6xgrxjamY8NZBzKFquV%2BTusCy9fSennV%20agentid%3DOraFusionApp_11AG%20ver%3D1%20crmethod%3D2%26cksum%3D60468a85b760abdbd5d764050959596a8a04f172&ECID-Context=1.005qyih99mB1VcE5v7h8iX0002Uw000HOC%3BkXjE
+    icon: http://www.google.com/s2/favicons?domain=oracle.com
+    maxResponseTime: 9000
+    assignees:
+      - desafecto
+  - name: (Jira) PRY-ES-ERP Cloud Implantaciones
+    url: https://procde.prosegur.com/jira/projects/ECUP/summary
+    icon: http://www.google.com/s2/favicons?domain=jira.com
+    maxResponseTime: 9000
+    assignees:
+      - desafecto
+  - name: (Jira) PRY-ES-ERP Cloud
+    url: https://procde.prosegur.com/jira/projects/ERPC/summary
+    icon: http://www.google.com/s2/favicons?domain=jira.com
+    maxResponseTime: 9000
+    assignees:
+      - desafecto
+  - name: (Jira) Seguimiento QA
+    url: https://procde.prosegur.com/jira/projects/ERPQA/summary
+    icon: http://www.google.com/s2/favicons?domain=jira.com
+    maxResponseTime: 9000
+    assignees:
+      - desafecto
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # cname: demo.upptime.js.org
+  baseUrl: /upptime
+  logoUrl: https://upload.wikimedia.org/wikipedia/commons/0/05/Robot_icon.svg
+  faviconSvg: https://upload.wikimedia.org/wikipedia/commons/0/05/Robot_icon.svg
+  css: ":root {
+              --body-background-color: #FFFFCC;
+              --card-background-color: #FFC300;
+              --nav-background-color:  #FFC300;
+         }"
+  #themeUrl: https://4ht0h10.github.io/upptime/my-custom-theme.css
+  name: Monitorización de servicios
+  introTitle: "Dashboard de _Status monitoring_ hecha con **upptime.js**"
+  introMessage: Monitoriza el estado de servicios permitiendo asignar automáticamente _incidencias_ y hacerles seguimiento
   navbar:
-    - title: Status
-      href: /
+    - title: Proyecto ERP Cloud
+      href: https://prosegur365.sharepoint.com/sites/ERPCloud
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  i18n:
+    activeIncidents: Incidentes activos :(
+    allSystemsOperational: Todos los sistemas están operativos
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
