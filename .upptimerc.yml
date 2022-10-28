@@ -41,11 +41,11 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://upload.wikimedia.org/wikipedia/commons/0/05/Robot_icon.svg
   faviconSvg: https://upload.wikimedia.org/wikipedia/commons/0/05/Robot_icon.svg
-  css: ":root {
-              --body-background-color: #FFFFCC;
-              --card-background-color: #FFC300;
-              --nav-background-color:  #FFC300;
-         }"
+  #css: ":root {
+  #            --body-background-color: #FFFFCC;
+  #            --card-background-color: #FFC300;
+  #            --nav-background-color:  #FFC300;
+  #       }"
   #themeUrl: https://4ht0h10.github.io/upptime/my-custom-theme.css
   name: Monitorización de servicios
   introTitle: "Dashboard de _Status monitoring_ hecha con **upptime.js**"
