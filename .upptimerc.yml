@@ -46,7 +46,7 @@ status-website:
   #            --card-background-color: #FFC300;
   #            --nav-background-color:  #FFC300;
   #       }"
-  #themeUrl: https://4ht0h10.github.io/upptime/my-custom-theme.css
+  themeUrl: https://4ht0h10.github.io/upptime/my-custom-theme.css
   name: Monitorización de servicios
   introTitle: "Dashboard de _Status monitoring_ hecha con **upptime.js**"
   introMessage: Monitoriza el estado de servicios permitiendo asignar automáticamente _incidencias_ y hacerles seguimiento
