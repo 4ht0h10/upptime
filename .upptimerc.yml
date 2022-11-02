@@ -28,7 +28,7 @@ sites:
     assignees:
       - desafecto
   - name: (Jira) QA Team management
-    url: https://procde.prosegur.com/jira/projects/ERPQA/summary
+    url: https://procde.prosegur.com/ZZZjira/projects/ERPQA/summary
     icon: http://www.google.com/s2/favicons?domain=jira.com
     maxResponseTime: 9000
     assignees:
