@@ -23,11 +23,11 @@
     "icon": "http://www.google.com/s2/favicons?domain=oracle.com",
     "slug": "dev-4-oracle-erp-cloud",
     "status": "up",
-    "uptime": "95.58%",
+    "uptime": "95.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.88%",
-    "uptimeMonth": "95.58%",
-    "uptimeYear": "95.58%",
+    "uptimeMonth": "95.59%",
+    "uptimeYear": "95.59%",
     "time": 933,
     "timeDay": 562,
     "timeWeek": 801,
@@ -46,19 +46,17 @@
     "icon": "http://www.google.com/s2/favicons?domain=jira.com",
     "slug": "jira-pry-es-erp-cloud-implantaciones",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1116,
     "timeDay": 319,
     "timeWeek": 886,
     "timeMonth": 1116,
     "timeYear": 1116,
-    "dailyMinutesDown": {
-      "2022-11-25": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "(Jira) PRY-ES-ERP Cloud",
@@ -66,19 +64,17 @@
     "icon": "http://www.google.com/s2/favicons?domain=jira.com",
     "slug": "jira-pry-es-erp-cloud",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 442,
     "timeDay": 253,
     "timeWeek": 390,
     "timeMonth": 442,
     "timeYear": 442,
-    "dailyMinutesDown": {
-      "2022-11-25": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "(Jira) QA Team management",
@@ -86,18 +82,17 @@
     "icon": "http://www.google.com/s2/favicons?domain=jira.com",
     "slug": "jira-qa-team-management",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 427,
     "timeDay": 171,
     "timeWeek": 343,
     "timeMonth": 427,
     "timeYear": 427,
     "dailyMinutesDown": {
-      "2022-11-25": 14,
       "2022-11-02": 11
     }
   }
