@@ -18,20 +18,23 @@ sites:
     assignees:
       - desafecto
   - name: (Jira) PRY-ES-ERP Cloud Implantaciones
-    url: https://procde.prosegur.com/jira/projects/ECUP/summary
+    url: https://jira.prosegur.com/projects/ECUP/summary
+    __dangerous__body_down_if_text_missing: 'PRY-ES-ERP Cloud implantaciones'
     icon: http://www.google.com/s2/favicons?domain=jira.com
     maxResponseTime: 9000
     assignees:
       - desafecto
   - name: (Jira) PRY-ES-ERP Cloud
-    url: https://procde.prosegur.com/jira/projects/ERPC/summary
+    url: https://jira.prosegur.com/projects/ERPC/summary
+    __dangerous__body_down_if_text_missing: 'PRY-ES-ERP Cloud'
     icon: http://www.google.com/s2/favicons?domain=jira.com
     maxResponseTime: 9000
     assignees:
       - desafecto
   - name: (Jira) QA Team management
-    url: https://procde.prosegur.com/jira/projects/ERPQA/summary
+    url: https://jira.prosegur.com/projects/ERPQA/summary
     icon: http://www.google.com/s2/favicons?domain=jira.com
+    __dangerous__body_down_if_text_missing: 'PRY-ES-ERPC'
     maxResponseTime: 9000
     assignees:
       - desafecto
