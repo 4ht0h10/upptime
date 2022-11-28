@@ -34,7 +34,7 @@ sites:
   - name: (Jira) QA Team management
     url: https://jira.prosegur.com/projects/ERPQA/summary
     icon: http://www.google.com/s2/favicons?domain=jira.com
-    __dangerous__body_down_if_text_missing: 'PRY-ES-ERPC'
+    __dangerous__body_down_if_text_missing: 'Login with Azure AD'
     maxResponseTime: 9000
     assignees:
       - desafecto
