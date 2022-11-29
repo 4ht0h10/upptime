@@ -45,19 +45,19 @@
     "url": "https://jira.prosegur.com/projects/ERPQA/summary",
     "icon": "http://www.google.com/s2/favicons?domain=jira.com",
     "slug": "jira-cloud-prosegur",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1960,
-    "timeDay": 771,
-    "timeWeek": 1960,
-    "timeMonth": 1960,
-    "timeYear": 1960,
+    "status": "up",
+    "uptime": "98.64%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "98.64%",
+    "uptimeYear": "98.64%",
+    "time": 1655,
+    "timeDay": 760,
+    "timeWeek": 1655,
+    "timeMonth": 1655,
+    "timeYear": 1655,
     "dailyMinutesDown": {
-      "2022-11-29": 0
+      "2022-11-29": 22
     }
   }
 ]
