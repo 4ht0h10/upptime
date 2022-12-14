@@ -15,7 +15,7 @@ sites:
     expectedStatusCodes:
       - 302
     icon: http://www.google.com/s2/favicons?domain=oracle.com
-    maxResponseTime: 5000
+    maxResponseTime: 6000
     assignees:
       - desafecto
   - name: (DEV4) Oracle ERP Cloud
