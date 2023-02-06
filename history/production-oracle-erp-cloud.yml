@@ -1,7 +1,7 @@
 url: https://emgy.fa.em4.oraclecloud.com/fscmUI/adfAuthentication?$PSGR_ERPCPRO
-status: up
-code: 200
-responseTime: 903
-lastUpdated: 2022-12-14T09:40:31.597Z
+status: down
+code: 400
+responseTime: 2588
+lastUpdated: 2023-02-05T23:07:50.426Z
 startTime: Wed Dec 14 2022 09:03:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
