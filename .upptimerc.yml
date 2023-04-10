@@ -32,14 +32,14 @@ sites:
     assignees:
       - desafecto
   - name: ELOFICASH [Producción]
-    url: https://preprosegur.covline.es/ELOFICASH_PROSEGUR
+    url: https://prosegur.covline.es/ELOFICASH_PROSEGUR
     icon: http://www.google.com/s2/favicons?domain=covline.es
     __dangerous__body_down_if_text_missing: 'PROSEGUR PRODUCCIÓN'
     maxResponseTime: 10000
   - name: ELOFICASH [Pre]
     url: https://preprosegur.covline.es/ELOFICASH_PROSEGUR
     icon: http://www.google.com/s2/favicons?domain=covline.es
-    __dangerous__body_down_if_text_missing: 'PREPRODUCCIÓN PROSEGUR'
+    __dangerous__body_down_if_text_missing: 'PREPRODUCCIÓN'
     maxResponseTime: 15000
 
 status-website:
