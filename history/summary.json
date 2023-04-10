@@ -90,19 +90,17 @@
     "icon": "http://www.google.com/s2/favicons?domain=covline.es",
     "slug": "eloficash-produccion",
     "status": "up",
-    "uptime": "1.87%",
-    "uptimeDay": "1.87%",
-    "uptimeWeek": "1.87%",
-    "uptimeMonth": "1.87%",
-    "uptimeYear": "1.87%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1223,
     "timeDay": 1223,
     "timeWeek": 1223,
     "timeMonth": 1223,
     "timeYear": 1223,
-    "dailyMinutesDown": {
-      "2023-04-10": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ELOFICASH [Pre]",
@@ -110,18 +108,16 @@
     "icon": "http://www.google.com/s2/favicons?domain=covline.es",
     "slug": "eloficash-pre",
     "status": "up",
-    "uptime": "1.11%",
-    "uptimeDay": "1.11%",
-    "uptimeWeek": "1.11%",
-    "uptimeMonth": "1.11%",
-    "uptimeYear": "1.11%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 680,
     "timeDay": 680,
     "timeWeek": 680,
     "timeMonth": 680,
     "timeYear": 680,
-    "dailyMinutesDown": {
-      "2023-04-10": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
