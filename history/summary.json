@@ -4,12 +4,12 @@
     "url": "https://prosegur.covline.es/ELOFICASH_PROSEGUR",
     "icon": "http://www.google.com/s2/favicons?domain=covline.es",
     "slug": "eloficash-produccion",
-    "status": "up",
-    "uptime": "93.24%",
-    "uptimeDay": "92.25%",
+    "status": "down",
+    "uptime": "93.31%",
+    "uptimeDay": "92.24%",
     "uptimeWeek": "95.09%",
     "uptimeMonth": "94.99%",
-    "uptimeYear": "93.24%",
+    "uptimeYear": "93.31%",
     "time": 1034,
     "timeDay": 969,
     "timeWeek": 1234,
@@ -116,8 +116,7 @@
       "2023-06-16": 88,
       "2023-06-15": 93,
       "2023-06-14": 116,
-      "2023-06-13": 127,
-      "2023-06-12": 119
+      "2023-06-13": 127
     }
   },
   {
@@ -126,11 +125,11 @@
     "icon": "http://www.google.com/s2/favicons?domain=covline.es",
     "slug": "eloficash-pre",
     "status": "up",
-    "uptime": "84.22%",
+    "uptime": "84.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.34%",
     "uptimeMonth": "92.79%",
-    "uptimeYear": "84.22%",
+    "uptimeYear": "84.28%",
     "time": 1208,
     "timeDay": 896,
     "timeWeek": 1260,
@@ -232,12 +231,12 @@
     "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.49%",
     "time": 721,
     "timeDay": 484,
     "timeWeek": 751,
-    "timeMonth": 718,
+    "timeMonth": 720,
     "timeYear": 721,
     "dailyMinutesDown": {
       "2023-09-02": 152,
@@ -275,17 +274,15 @@
     "slug": "connect-to-oracle-cloud",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 898,
     "timeDay": 907,
     "timeWeek": 902,
     "timeMonth": 884,
     "timeYear": 898,
-    "dailyMinutesDown": {
-      "2023-10-02": 15
-    }
+    "dailyMinutesDown": {}
   }
 ]
