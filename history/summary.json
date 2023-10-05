@@ -5,11 +5,11 @@
     "icon": "http://www.google.com/s2/favicons?domain=covline.es",
     "slug": "eloficash-produccion",
     "status": "up",
-    "uptime": "93.38%",
-    "uptimeDay": "93.04%",
+    "uptime": "93.45%",
+    "uptimeDay": "93.02%",
     "uptimeWeek": "94.84%",
     "uptimeMonth": "94.86%",
-    "uptimeYear": "93.38%",
+    "uptimeYear": "93.45%",
     "time": 1034,
     "timeDay": 1046,
     "timeWeek": 1046,
@@ -116,8 +116,7 @@
       "2023-06-19": 92,
       "2023-06-18": 113,
       "2023-06-17": 72,
-      "2023-06-16": 88,
-      "2023-06-15": 93
+      "2023-06-16": 88
     }
   },
   {
@@ -126,14 +125,14 @@
     "icon": "http://www.google.com/s2/favicons?domain=covline.es",
     "slug": "eloficash-pre",
     "status": "up",
-    "uptime": "84.48%",
+    "uptime": "84.55%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.77%",
+    "uptimeWeek": "99.68%",
     "uptimeMonth": "92.79%",
-    "uptimeYear": "84.48%",
+    "uptimeYear": "84.55%",
     "time": 1213,
     "timeDay": 1410,
-    "timeWeek": 1261,
+    "timeWeek": 1253,
     "timeMonth": 1513,
     "timeYear": 1213,
     "dailyMinutesDown": {
