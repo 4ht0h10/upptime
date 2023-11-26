@@ -1,7 +1,7 @@
 url: https://prosegur.covline.es/ELOFICASH_PROSEGUR
-status: degraded
+status: up
 code: 200
-responseTime: 22797
-lastUpdated: 2023-11-26T16:50:07.052Z
+responseTime: 1041
+lastUpdated: 2023-11-26T17:06:41.070Z
 startTime: 2023-04-10T09:38:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
