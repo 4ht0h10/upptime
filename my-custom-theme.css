@@ -1,0 +1,16 @@
+/* 
+  Aquí me lío la manta a la cabeza y me pongo a hacer UX.
+  Algo que odio.
+
+  De partida uso la plantilla 'ligth' sacada de
+  status-page/static/themes/
+  en https://github.com/upptime/status-page/tree/d85d1c8226a71e95925e25bdd7db96e915cfdf42/static/themes
+
+  y cambio cosas a mi criterio.
+  
+ */
+ :root {
+  --body-background-color: #FFFFCC;
+  --card-background-color: #FFC300;
+  --nav-background-color:  #FFC300;
+}
