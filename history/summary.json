@@ -5,18 +5,18 @@
     "icon": "http://www.google.com/s2/favicons?domain=covline.es",
     "slug": "eloficash-produccion",
     "status": "up",
-    "uptime": "97.30%",
-    "uptimeDay": "89.49%",
-    "uptimeWeek": "88.67%",
-    "uptimeMonth": "90.72%",
-    "uptimeYear": "97.30%",
+    "uptime": "97.21%",
+    "uptimeDay": "90.28%",
+    "uptimeWeek": "88.78%",
+    "uptimeMonth": "90.74%",
+    "uptimeYear": "97.21%",
     "time": 1095,
     "timeDay": 964,
     "timeWeek": 1158,
     "timeMonth": 1158,
     "timeYear": 1095,
     "dailyMinutesDown": {
-      "2024-01-18": 151,
+      "2024-01-18": 140,
       "2024-01-17": 160,
       "2024-01-16": 124,
       "2024-01-15": 211,
@@ -110,7 +110,8 @@
       "2023-10-18": 105,
       "2023-10-17": 94,
       "2023-10-16": 167,
-      "2023-10-15": 64
+      "2023-10-15": 64,
+      "2023-10-14": 393
     }
   },
   {
