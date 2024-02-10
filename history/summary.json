@@ -4,18 +4,19 @@
     "url": "https://prosegur.covline.es/ELOFICASH_PROSEGUR",
     "icon": "http://www.google.com/s2/favicons?domain=covline.es",
     "slug": "eloficash-produccion",
-    "status": "up",
-    "uptime": "97.39%",
-    "uptimeDay": "92.26%",
-    "uptimeWeek": "92.99%",
+    "status": "down",
+    "uptime": "97.42%",
+    "uptimeDay": "92.25%",
+    "uptimeWeek": "92.98%",
     "uptimeMonth": "90.82%",
-    "uptimeYear": "97.39%",
+    "uptimeYear": "97.42%",
     "time": 1103,
-    "timeDay": 1029,
-    "timeWeek": 1071,
-    "timeMonth": 1221,
+    "timeDay": 958,
+    "timeWeek": 1055,
+    "timeMonth": 1216,
     "timeYear": 1103,
     "dailyMinutesDown": {
+      "2024-02-10": 0,
       "2024-02-09": 112,
       "2024-02-08": 101,
       "2024-02-07": 111,
@@ -111,8 +112,7 @@
       "2023-11-08": 98,
       "2023-11-07": 100,
       "2023-11-06": 92,
-      "2023-11-05": 85,
-      "2023-11-04": 106
+      "2023-11-05": 85
     }
   },
   {
